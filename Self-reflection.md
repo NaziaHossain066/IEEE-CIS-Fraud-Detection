@@ -1,5 +1,4 @@
-
-##Preamble:
+<h1>Preamble:<\h1>
 
 Through this project I embarked on my journey of exploring Machine Learning. As I am new to this sector having no prior experience, my initial goal was to build a running model. Having majored in Electrical and Electronic Engineering, this wasn't easy. It was the first time I was implementing my theoretical knowledge in pratical application.
 
