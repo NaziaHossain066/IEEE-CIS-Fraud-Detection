@@ -9,7 +9,7 @@ Through this project I embarked on my journey of exploring Machine Learning. As 
 
 <strong>Fix</strong>:
 
-The data usage has to be truncated manually. For example, whenever we load a CSV into a clumnin a dataframe, it will assign 64 bytes to store 1 numerical value. We can reduce that and use other int formates to save some memory.
+The data usage has to be truncated manually. For example, whenever we load a CSV into a column in a dataframe, it will assign 64 bytes to store 1 numerical value. We can reduce that and use other int formates to save some memory.
 
 int8 can store integers from -128 to 127
 
@@ -24,7 +24,7 @@ int16 can store integers from -32768 to 32767
 Replaced the null values with a single term 'un' and finally label encoded them along with scaling.
 
 ####Numerical Feature:
-As there were 333 columns, to reduce the dimensionality, I used PCA.
+As there were 333 columns, to reduce the dimension, I used PCA.
 
 ###3)The provided dataset is highly imbalanced, with more than 99% normal transaction and less than 1% fraud transaction.
 
