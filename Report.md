@@ -8,9 +8,7 @@ In this competition,  IEEE Computational Intelligence Society (IEEE-CIS) partner
 
 2)	sklearn.decomposition.PCA
 
-3)	imblearn.over_sampling.SMOTE
-
-4)	LightGBM
+3)	LightGBM
 
 ### Result Analysis:
 The model gives an accuracy of 0.842981.
