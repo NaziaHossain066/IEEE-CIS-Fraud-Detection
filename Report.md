@@ -13,6 +13,6 @@ In this competition,  IEEE Computational Intelligence Society (IEEE-CIS) partner
 4)	LightGBM
 
 ### Result Analysis:
-The model gives an accuracy of 729273.
+The model gives an accuracy of 0.842981.
 ### Conclusion:
 The accuracy can be increased by tuning the hyperparameters better.
